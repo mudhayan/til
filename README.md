@@ -1,9 +1,28 @@
 # 2019-2-18
 
+Getter Methods: return the variable
+
+Seter Methods: set the variable 
+
+```Ruby
+
+## method example
+def first_name=(input_name)
+  @first_name = input_name
+ end
+end
+
+## idiomatic Ruby example to set a new variable
+employee.first_name = Bob
+```
+
+Instances in Ruby: 
+
+
 String interpolation: is the process of evaluating a string literal containing one or more placeholders, yielding a result in which the placeholders are replaced with their corresponding values. You can use this to build a sentence (as opposed to concatenation). 
 
 Example in Ruby:
-```
+```Ruby
 employee1 = ["Majora", "Carter", 90000, true]
 puts "#{employee1[0]} #{employee1[1]} makes #{employee1[2]} a year." 
 ```
