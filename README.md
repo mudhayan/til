@@ -1,5 +1,9 @@
 # 2019-2-18
 
+Run code in sublime: 
+
+1. Run `cmd + b`
+
 This is how to create an SSH key and add it to GitHub: 
 
 1. Create a public and private ssh key in `~/.ssh` by running: `ssh-keygen -t rsa -b 4096 -C "github_email_address"`
