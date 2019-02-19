@@ -1,5 +1,13 @@
 # 2019-2-18
 
+String interpolation: is the process of evaluating a string literal containing one or more placeholders, yielding a result in which the placeholders are replaced with their corresponding values. You can use this to build a sentence (as opposed to concatenation). 
+
+Example in Ruby:
+```
+employee1 = ["Majora", "Carter", 90000, true]
+puts "#{employee1[0]} #{employee1[1]} makes #{employee1[2]} a year." 
+```
+
 Run code in sublime: 
 
 1. Run `cmd + b`
