@@ -1,0 +1,7 @@
+TIL 2-24
+
+Sublime Shortcuts:
+cmd + p : search for pages
+
+
+rails generate controller api/pages

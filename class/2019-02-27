@@ -1,0 +1,13 @@
+There are different ways to get data from the user as part of the the http specification:
+
+* URL segment parameter: variables in the URL
+
+In the below example, 123 is a varaible in the URL segment and is a variable:
+```www.mud.com/api/product/123```
+
+* URL query parameter: variables after the `?` separator in the url
+
+There are different ways to get data from the user as part of the the http specification:
+
+In the below example, `product_id=123` is part of the wuery parameters:
+```www.mud.com/api/product?product_id=123```

@@ -1,0 +1,17 @@
+TIL 2-10
+
+Sublime Shortcuts:
+cmd + enter = create a new line underneath no matter where you are
+cmd + shift + enter = create a new line untop no matter where you are
+cmnd + option + # = create split panes
+
+Modules:
+A collection of methods
+
+Linking files:
+require "relative/path/to/directory"
+
+Namespacing:
+Wrap your code by putting something in another module so that my names don't conflict with your names
+
+@keelin, we have a problem - greg is the only person who knows nix.
